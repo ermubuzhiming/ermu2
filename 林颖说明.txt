@@ -1,0 +1,8 @@
+https://blog.csdn.net/chaipp0607/article/details/80469865
+教程中代码来源以及印象笔记工作安排4.18-4.23的参考链接
+
+https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+权重文件来源于另一链接，格式为ckpt
+
+https://www.cnblogs.com/siucaan/p/9623111.html
+代码中权重文件格式为npy，ckpt转换成npy的链接
